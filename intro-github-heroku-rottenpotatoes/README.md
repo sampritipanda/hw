@@ -58,4 +58,4 @@ For the github username located at https://github.com/example_person/ , the form
 
 To grade the submission, you need to use the the autograders at https://github.com/saasbook/rag
 
-    ./grade15 <github_username> <spec_file>
+    ./grade_github <github_username> <spec_file>
